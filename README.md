@@ -1,4 +1,4 @@
-#Java
+# Java
 Oi!
 Se você está lendo isso é porque teve a curiosidade de saber oque estou aprendendo em java, decidi usar esse repositorio como minha anotação pessoal de tudo que estou aprendendo em java, seja pela faculdade  ou por conta própria aqui terá muitos comentarios, teste, práticas para que eu consiga ir aprendendo no meu próprio ritmo.
 
